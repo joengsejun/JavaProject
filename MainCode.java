@@ -1,5 +1,3 @@
-package chap01;
-
 import javax.swing.*;
 
 import javazoom.jl.player.MP3Player;

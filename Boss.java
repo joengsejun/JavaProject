@@ -1,5 +1,3 @@
-package chap01;
-
 import java.awt.*;
 
 import javax.swing.*;

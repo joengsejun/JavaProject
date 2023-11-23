@@ -1,5 +1,3 @@
-package chap01;
-
 import javax.swing.*;
 
 public class Introduce extends JFrame {

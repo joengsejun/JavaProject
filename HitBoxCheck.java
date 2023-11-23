@@ -1,5 +1,3 @@
-package chap01;
-
 // point1 -> point2 -> point3 -> point4 -> point1 구조로 이루어진 히트박스 체크
 public class HitBoxCheck {
 	private double point1X;
